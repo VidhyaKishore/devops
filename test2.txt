@@ -1,2 +1,3 @@
 modify  ---- edited  ---- updated
-2nd line
+2nd line  
+create conflict
